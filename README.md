@@ -26,7 +26,7 @@ LINK
 
 ### Main Screens
 ### Home
-<img src="[https://github.com/joshuapopp17/fullcircle/assets/54725087/b4406689-fd1a-4265-8ce1-edb5bcade9a6" alt="drawing" width="200"/>
+<img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/b4406689-fd1a-4265-8ce1-edb5bcade9a6" alt="drawing" width="200"/>
 ![Screenshot_20231214-193951](https://github.com/joshuapopp17/fullcircle/assets/54725087/1f8d2d74-4c1d-4794-b1d1-d123d3ea9617)
 
 ### Profile
