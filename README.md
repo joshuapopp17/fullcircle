@@ -26,24 +26,30 @@ LINK
 
 ### Main Screens
 ### Home
-![Screenshot_20231214-193951](https://github.com/joshuapopp17/fullcircle/assets/54725087/1f8d2d74-4c1d-4794-b1d1-d123d3ea9617)
+<img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/bf7d94cf-059f-4de2-9b98-309c8182d944" width="300">
 
 ### Profile
-![Screenshot_20231214-195752](https://github.com/joshuapopp17/fullcircle/assets/54725087/e067e0ac-24ae-451c-a1ab-0900f4e11e0a)
-![Screenshot_20231214-195802](https://github.com/joshuapopp17/fullcircle/assets/54725087/310166dd-5d2b-43b7-a302-8505a0e17919)
+<div>
+    <img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/e067e0ac-24ae-451c-a1ab-0900f4e11e0a" width="300">
+    <img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/310166dd-5d2b-43b7-a302-8505a0e17919" width="300">
+</div>
 
 ### Entry Screens
 #### Journal Entry
-![Screenshot_20231211-195037](https://github.com/joshuapopp17/fullcircle/assets/54725087/59eb1b8f-32d8-4a11-a92f-2e813c7012d7)
+<img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/59eb1b8f-32d8-4a11-a92f-2e813c7012d7" width="300">
 
 #### Entry
-![Screenshot_20231214-185533](https://github.com/joshuapopp17/fullcircle/assets/54725087/f8eaf42b-ad8b-4558-8709-fab11854f584)
+<img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/f8eaf42b-ad8b-4558-8709-fab11854f584" width="300">
 
-#### Friend Screens
-![Screenshot_20231214-195810](https://github.com/joshuapopp17/fullcircle/assets/54725087/1bb7f27c-a684-41b9-bf42-844085dd5460)
-![Screenshot_20231214-195802](https://github.com/joshuapopp17/fullcircle/assets/54725087/cf7913b2-97d1-44d7-b195-374cf8c809c1)
+### Friend Screens
+<div>
+    <img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/1bb7f27c-a684-41b9-bf42-844085dd5460" width="300">
+    <img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/cf7913b2-97d1-44d7-b195-374cf8c809c1" width="300">
+</div>
 
 ### Profile Creation
-![Screenshot_20231214-200036](https://github.com/joshuapopp17/fullcircle/assets/54725087/8b22b22f-d7b4-4f7e-9521-83b4dd9854f4)
-![Screenshot_20231214-200741](https://github.com/joshuapopp17/fullcircle/assets/54725087/46b69dcf-63e5-42e2-ac45-0989e7bea825)
-![Screenshot_20231214-200751](https://github.com/joshuapopp17/fullcircle/assets/54725087/41b249bb-86a0-4b23-adcf-bd3783b043de)
+<div>
+  <img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/8b22b22f-d7b4-4f7e-9521-83b4dd9854f4" width="300">
+  <img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/46b69dcf-63e5-42e2-ac45-0989e7bea825" width="300">
+  <img src="https://github.com/joshuapopp17/fullcircle/assets/54725087/41b249bb-86a0-4b23-adcf-bd3783b043de" width="300">
+</div>
