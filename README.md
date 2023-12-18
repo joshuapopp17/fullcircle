@@ -6,7 +6,7 @@ Full circle is a guided journaling app that allows users to quickly fill out a d
 
 ### Video 🎬
 
-LINK
+<a href="https://www.youtube.com/watch?v=Ch_luvvyA3I" target="_blank">Video link for demo</a>
 
 ## Download app from expo (Beta 1.0) 📱
 
